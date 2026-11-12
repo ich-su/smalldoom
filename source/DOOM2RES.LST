@@ -1,0 +1,2956 @@
+PLAYPAL         C
+COLORMAP        C
+ENDOOM          F       endoom.raw
+DEMO1           F       i09demo1.lmp
+DEMO2           F       sl7s3t40.lmp
+DEMO3           S       DEMO1
+MAP01           C
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP02           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP03           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP04           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP05           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP06           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP07           C
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP08           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP09           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP10           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP11           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP12           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP13           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP14           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP15           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP16           C
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP17           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP18           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP19           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP20           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP21           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP22           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP23           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP24           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP25           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP26           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP27           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP28           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP29           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP30           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP31           S       MAP01
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+MAP32           S       MAP16
+THINGS
+LINEDEFS
+SIDEDEFS
+VERTEXES
+SEGS
+SSECTORS
+NODES
+SECTORS
+REJECT
+BLOCKMAP
+TEXTURE1        C
+PNAMES          C
+GENMIDI         C
+DMXGUSC         C
+DPPISTOL        C
+DSPISTOL        C
+DPSHOTGN        C
+DSSHOTGN        C
+DPSGCOCK        C
+DSSGCOCK        C
+DPSAWUP         C
+DSSAWUP         C
+DPSAWIDL        C
+DSSAWIDL        C
+DPSAWFUL        C
+DSSAWFUL        C
+DPSAWHIT        C
+DSSAWHIT        C
+DPRLAUNC        C
+DSRLAUNC        C
+DPRXPLOD        C
+DSRXPLOD        C
+DPFIRSHT        C
+DSFIRSHT        C
+DPFIRXPL        C
+DSFIRXPL        C
+DPPSTART        C
+DSPSTART        C
+DPPSTOP         C
+DSPSTOP         C
+DPDOROPN        C
+DSDOROPN        C
+DPDORCLS        C
+DSDORCLS        C
+DPSTNMOV        C
+DSSTNMOV        C
+DPSWTCHN        C
+DSSWTCHN        C
+DPSWTCHX        C
+DSSWTCHX        C
+DPPLPAIN        C
+DSPLPAIN        C
+DPDMPAIN        S       DPPLPAIN
+DSDMPAIN        S       DSPLPAIN
+DPPOPAIN        S       DPPLPAIN
+DSPOPAIN        S       DSPLPAIN
+DPSLOP          C
+DSSLOP          C
+DPITEMUP        C
+DSITEMUP        C
+DPWPNUP         C
+DSWPNUP         C
+DPOOF           C
+DSOOF           C
+DPTELEPT        C
+DSTELEPT        C
+DPPOSIT1        S       DPOOF
+DSPOSIT1        S       DSOOF
+DPPOSIT2        S       DPOOF
+DSPOSIT2        S       DSOOF
+DPPOSIT3        S       DPOOF
+DSPOSIT3        S       DSOOF
+DPBGSIT1        S       DPOOF
+DSBGSIT1        S       DSOOF
+DPBGSIT2        S       DPOOF
+DSBGSIT2        S       DSOOF
+DPSGTSIT        S       DPOOF
+DSSGTSIT        S       DSOOF
+DPBRSSIT        S       DPOOF
+DSBRSSIT        S       DSOOF
+DPSGTATK        S       DPOOF
+DSSGTATK        S       DSOOF
+DPCLAW          S       DPOOF
+DSCLAW          S       DSOOF
+DPPLDETH        C
+DSPLDETH        C
+DPPDIEHI        C
+DSPDIEHI        C
+DPPODTH1        S       DPPLDETH
+DSPODTH1        S       DSPLDETH
+DPPODTH2        S       DPPLDETH
+DSPODTH2        S       DSPLDETH
+DPPODTH3        S       DPPLDETH
+DSPODTH3        S       DSPLDETH
+DPBGDTH1        S       DPPLDETH
+DSBGDTH1        S       DSPLDETH
+DPBGDTH2        S       DPPLDETH
+DSBGDTH2        S       DSPLDETH
+DPSGTDTH        S       DPPLDETH
+DSSGTDTH        S       DSPLDETH
+DPBRSDTH        S       DPPLDETH
+DSBRSDTH        S       DSPLDETH
+DPPOSACT        S       DPOOF
+DSPOSACT        S       DSOOF
+DPBGACT         S       DPOOF
+DSBGACT         S       DSOOF
+DPDMACT         S       DPOOF
+DSDMACT         S       DSOOF
+DPNOWAY         C
+DSNOWAY         C
+DPBAREXP        C
+DSBAREXP        C
+DPPUNCH         C
+DSPUNCH         C
+DPTINK          C
+DSTINK          C
+DPBDOPN         C
+DSBDOPN         C
+DPBDCLS         C
+DSBDCLS         C
+DPITMBK         C
+DSITMBK         C
+DPGETPOW        C
+DSGETPOW        C
+DPPLASMA        C
+DSPLASMA        C
+DPBFG           C
+DSBFG           C
+DPCACSIT        S       DPOOF
+DSCACSIT        S       DSOOF
+DPCYBSIT        S       DPOOF
+DSCYBSIT        S       DSOOF
+DPSPISIT        S       DPOOF
+DSSPISIT        S       DSOOF
+DPSKLATK        S       DPOOF
+DSSKLATK        S       DSOOF
+DPCACDTH        S       DPPLDETH
+DSCACDTH        S       DSPLDETH
+DPSKLDTH        S       DPOOF
+DSSKLDTH        S       DSOOF
+DPCYBDTH        S       DPPLDETH
+DSCYBDTH        S       DSPLDETH
+DPSPIDTH        S       DPPLDETH
+DSSPIDTH        S       DSPLDETH
+DPHOOF          C
+DSHOOF          C
+DPMETAL         S       DPOOF
+DSMETAL         S       DSOOF
+D_RUNNIN        C
+D_STALKS        S       D_RUNNIN
+D_COUNTD        S       D_RUNNIN
+D_BETWEE        S       D_RUNNIN
+D_DOOM          S       D_RUNNIN
+D_THE_DA        S       D_RUNNIN
+D_SHAWN         S       D_RUNNIN
+D_DDTBLU        S       D_RUNNIN
+D_IN_CIT        S       D_RUNNIN
+D_DEAD          S       D_RUNNIN
+D_STLKS2        S       D_RUNNIN
+D_THEDA2        S       D_RUNNIN
+D_DOOM2         S       D_RUNNIN
+D_DDTBL2        S       D_RUNNIN
+D_RUNNI2        S       D_RUNNIN
+D_DEAD2         S       D_RUNNIN
+D_STLKS3        S       D_RUNNIN
+D_ROMERO        S       D_RUNNIN
+D_SHAWN2        S       D_RUNNIN
+D_MESSAG        S       D_RUNNIN
+D_COUNT2        S       D_RUNNIN
+D_DDTBL3        S       D_RUNNIN
+D_AMPIE         S       D_RUNNIN
+D_THEDA3        S       D_RUNNIN
+D_ADRIAN        S       D_RUNNIN
+D_MESSG2        S       D_RUNNIN
+D_ROMER2        S       D_RUNNIN
+D_TENSE         S       D_RUNNIN
+D_SHAWN3        S       D_RUNNIN
+D_OPENIN        S       D_RUNNIN
+D_EVIL          S       D_RUNNIN
+D_ULTIMA        S       D_RUNNIN
+D_READ_M        S       D_RUNNIN
+D_DM2TTL        C
+D_DM2INT        C
+DPDSHTGN        C
+DSDSHTGN        C
+DPDBOPN         C
+DSDBOPN         C
+DPDBCLS         C
+DSDBCLS         C
+DPDBLOAD        C
+DSDBLOAD        C
+DPVIPAIN        S       DPPLPAIN
+DSVIPAIN        S       DSPLPAIN
+DPMNPAIN        S       DPPLPAIN
+DSMNPAIN        S       DSPLPAIN
+DPPEPAIN        S       DPPLPAIN
+DSPEPAIN        S       DSPLPAIN
+DPBSPSIT        S       DPOOF
+DSBSPSIT        S       DSOOF
+DPKNTSIT        S       DPOOF
+DSKNTSIT        S       DSOOF
+DPVILSIT        S       DPOOF
+DSVILSIT        S       DSOOF
+DPMANSIT        S       DPOOF
+DSMANSIT        S       DSOOF
+DPPESIT         S       DPOOF
+DSPESIT         S       DSOOF
+DPSKEPCH        S       DPOOF
+DSSKEPCH        S       DSOOF
+DPVILATK        S       DPOOF
+DSVILATK        S       DSOOF
+DPSKESWG        S       DPOOF
+DSSKESWG        S       DSOOF
+DPBSPDTH        S       DPPLDETH
+DSBSPDTH        S       DSPLDETH
+DPVILDTH        S       DPPLDETH
+DSVILDTH        S       DSPLDETH
+DPKNTDTH        S       DPPLDETH
+DSKNTDTH        S       DSPLDETH
+DPPEDTH         S       DPPLDETH
+DSPEDTH         S       DSPLDETH
+DPSKEDTH        S       DPPLDETH
+DSSKEDTH        S       DSPLDETH
+DPBSPACT        S       DPOOF
+DSBSPACT        S       DSOOF
+DPBSPWLK        S       DPOOF
+DSBSPWLK        S       DSOOF
+DPVILACT        S       DPOOF
+DSVILACT        S       DSOOF
+DPFLAME         S       DPOOF
+DSFLAME         S       DSOOF
+DPFLAMST        S       DPOOF
+DSFLAMST        S       DSOOF
+DPBOSPIT        S       DPOOF
+DSBOSPIT        S       DSOOF
+DPBOSCUB        S       DPOOF
+DSBOSCUB        S       DSOOF
+DPBOSSIT        S       DPOOF
+DSBOSSIT        S       DSOOF
+DPBOSPN         S       DPPLPAIN
+DSBOSPN         S       DSPLPAIN
+DPBOSDTH        S       DPPLDETH
+DSBOSDTH        S       DSPLDETH
+DPMANATK        S       DPOOF
+DSMANATK        S       DSOOF
+DPMANDTH        S       DPPLDETH
+DSMANDTH        S       DSPLDETH
+DPSSSIT         S       DPOOF
+DSSSSIT         S       DSOOF
+DPSSDTH         S       DPPLDETH
+DSSSDTH         S       DSPLDETH
+DPKEENPN        S       DPPLPAIN
+DSKEENPN        S       DSPLPAIN
+DPKEENDT        S       DPPLDETH
+DSKEENDT        S       DSPLDETH
+DPSKEACT        S       DPOOF
+DSSKEACT        S       DSOOF
+DPSKESIT        S       DPOOF
+DSSKESIT        S       DSOOF
+DPSKEATK        S       DPOOF
+DSSKEATK        S       DSOOF
+DPRADIO         C
+DSRADIO         C
+HELP            S       TITLEPIC
+VICTORY2        N
+PFUB1           N
+PFUB2           N
+END0            N
+END1            N
+END2            N
+END3            N
+END4            N
+END5            N
+END6            N
+TITLEPIC        F       titlepic.raw
+CREDIT          S       TITLEPIC
+BOSSBACK        S       TITLEPIC
+AMMNUM0         C
+AMMNUM1         C
+AMMNUM2         C
+AMMNUM3         C
+AMMNUM4         C
+AMMNUM5         C
+AMMNUM6         C
+AMMNUM7         C
+AMMNUM8         C
+AMMNUM9         C
+STBAR           C
+STGNUM0         C
+STGNUM1         C
+STGNUM2         C
+STGNUM3         C
+STGNUM4         C
+STGNUM5         C
+STGNUM6         C
+STGNUM7         C
+STGNUM8         C
+STGNUM9         C
+STTMINUS        C
+STTNUM0         C
+STTNUM1         C
+STTNUM2         C
+STTNUM3         C
+STTNUM4         C
+STTNUM5         C
+STTNUM6         C
+STTNUM7         C
+STTNUM8         C
+STTNUM9         C
+STTPRCNT        C
+STYSNUM0        C
+STYSNUM1        C
+STYSNUM2        C
+STYSNUM3        C
+STYSNUM4        C
+STYSNUM5        C
+STYSNUM6        C
+STYSNUM7        C
+STYSNUM8        C
+STYSNUM9        C
+STKEYS0         C
+STKEYS1         C
+STKEYS2         C
+STKEYS3         S       STKEYS0
+STKEYS4         S       STKEYS1
+STKEYS5         S       STKEYS2
+STDISK          C
+STCDROM         C
+STARMS          C
+STCFN033        CC      BC
+STCFN034        CC      BC
+STCFN035        CC      BC
+STCFN036        CC      BC
+STCFN037        CC      BC
+STCFN038        CC      BC
+STCFN039        CC      BC
+STCFN040        CC      BC
+STCFN041        CC      BC
+STCFN042        CC      BC
+STCFN043        CC      BC
+STCFN044        CC      BC
+STCFN045        CC      BC
+STCFN046        CC      BC
+STCFN047        CC      BC
+STCFN048        CC      BC
+STCFN049        CC      BC
+STCFN050        CC      BC
+STCFN051        CC      BC
+STCFN052        CC      BC
+STCFN053        CC      BC
+STCFN054        CC      BC
+STCFN055        CC      BC
+STCFN056        CC      BC
+STCFN057        CC      BC
+STCFN058        CC      BC
+STCFN059        CC      BC
+STCFN060        CC      BC
+STCFN061        CC      BC
+STCFN062        CC      BC
+STCFN063        CC      BC
+STCFN064        CC      BC
+STCFN065        CC      BC
+STCFN066        CC      BC
+STCFN067        CC      BC
+STCFN068        CC      BC
+STCFN069        CC      BC
+STCFN070        CC      BC
+STCFN071        CC      BC
+STCFN072        CC      BC
+STCFN073        CC      BC
+STCFN074        CC      BC
+STCFN075        CC      BC
+STCFN076        CC      BC
+STCFN077        CC      BC
+STCFN078        CC      BC
+STCFN079        CC      BC
+STCFN080        CC      BC
+STCFN081        CC      BC
+STCFN082        CC      BC
+STCFN083        CC      BC
+STCFN084        CC      BC
+STCFN085        CC      BC
+STCFN086        CC      BC
+STCFN087        CC      BC
+STCFN088        CC      BC
+STCFN089        CC      BC
+STCFN090        CC      BC
+STCFN091        CC      BC
+STCFN092        CC      BC
+STCFN093        CC      BC
+STCFN094        CC      BC
+STCFN095        CC      BC
+STCFN121        CC      BC
+STFB1           C
+STFB0           C
+STFB2           C
+STFB3           C
+STPB1           S       STFB1
+STPB0           S       STFB0
+STPB2           S       STFB2
+STPB3           S       STFB3
+STFST01         C
+STFST00         S       STFST01
+STFST02         S       STFST01
+STFTL00         S       STFST01
+STFTR00         S       STFST01
+STFOUCH0        S       STFST01
+STFEVL0         S       STFST01
+STFKILL0        S       STFST01
+STFST11         S       STFST01
+STFST10         S       STFST01
+STFST12         S       STFST01
+STFTL10         S       STFST01
+STFTR10         S       STFST01
+STFOUCH1        S       STFST01
+STFEVL1         S       STFST01
+STFKILL1        S       STFST01
+STFST21         S       STFST01
+STFST20         S       STFST01
+STFST22         S       STFST01
+STFTL20         S       STFST01
+STFTR20         S       STFST01
+STFOUCH2        S       STFST01
+STFEVL2         S       STFST01
+STFKILL2        S       STFST01
+STFST31         S       STFST01
+STFST30         S       STFST01
+STFST32         S       STFST01
+STFTL30         S       STFST01
+STFTR30         S       STFST01
+STFOUCH3        S       STFST01
+STFEVL3         S       STFST01
+STFKILL3        S       STFST01
+STFST41         S       STFST01
+STFST40         S       STFST01
+STFST42         S       STFST01
+STFTL40         S       STFST01
+STFTR40         S       STFST01
+STFOUCH4        S       STFST01
+STFEVL4         S       STFST01
+STFKILL4        S       STFST01
+STFGOD0         S       STFST01
+STFDEAD0        S       STFST01
+M_DOOM          C
+M_RDTHIS        N
+M_OPTION        CC      B7
+M_QUITG         CC      B7
+M_NGAME         CC      B7
+M_SKULL1        C
+M_SKULL2        S       M_SKULL1
+M_THERMO        C
+M_THERMR        C
+M_THERMM        C
+M_THERML        C
+M_ENDGAM        CC      B7
+M_PAUSE         CC      B7
+M_MESSG         CC      B7
+M_MSGON         CC      B7
+M_MSGOFF        CC      B7
+M_EPISOD        N
+M_EPI1          N
+M_EPI2          N
+M_EPI3          N
+M_HURT          S       WINUM3
+M_JKILL         S       WINUM1
+M_ROUGH         S       WINUM2
+M_SKILL         CC      B7
+M_NEWG          S       M_NGAME
+M_ULTRA         S       WINUM4
+M_NMARE         S       WINUM5
+M_SVOL          CC      B7
+M_OPTTTL        S       M_OPTION
+M_SAVEG         CC      B7
+M_LOADG         CC      B7
+M_DISP          CC      B7
+M_MSENS         CC      B7
+M_GDHIGH        CC      B7
+M_GDLOW         CC      B7
+M_DETAIL        CC      B7
+M_DISOPT        S       M_DISP
+M_SCRNSZ        CC      B7
+M_SGTTL         S       M_SAVEG
+M_LGTTL         S       M_LOADG
+M_SFXVOL        CC      B7
+M_MUSVOL        CC      B7
+M_LSLEFT        C
+M_LSCNTR        C
+M_LSRGHT        C
+BRDR_TL         C
+BRDR_T          C
+BRDR_TR         C
+BRDR_L          C
+BRDR_R          C
+BRDR_BL         C
+BRDR_B          C
+BRDR_BR         C
+WIOSTK          CC      B7
+WIOSTI          CC      B7
+WIF             CC      B7
+WIMSTT          CC      B7
+WIOSTS          CC      B7
+WIOSTF          CC      B7
+WITIME          CC      B7
+WIPAR           CC      B7
+WIMSTAR         CC      B7
+WIMINUS         CC      B7
+WIPCNT          CC      B7
+WINUM0          CC      B7
+WINUM1          CC      B7
+WINUM2          CC      B7
+WINUM3          CC      B7
+WINUM4          CC      B7
+WINUM5          CC      B7
+WINUM6          CC      B7
+WINUM7          CC      B7
+WINUM8          CC      B7
+WINUM9          CC      B7
+WICOLON         CC      B7
+WISUCKS         CC      B7
+WIFRGS          CC      B7
+WILV00          C
+WILV01          S       WILV00
+WILV02          S       WILV00
+WILV03          S       WILV00
+WILV04          S       WILV00
+WILV05          S       WILV00
+WILV06          S       WILV00
+WILV07          S       WILV00
+WILV08          S       WILV00
+WILV11          S       WILV00
+WILV12          S       WILV00
+WILV14          S       WILV00
+WILV15          S       WILV00
+WILV16          S       WILV00
+WILV17          S       WILV00
+WILV18          S       WILV00
+WILV20          S       WILV00
+WILV21          S       WILV00
+WILV22          S       WILV00
+WILV23          S       WILV00
+WILV24          S       WILV00
+WILV25          S       WILV00
+WILV26          S       WILV00
+WILV27          S       WILV00
+WILV28          S       WILV00
+WILV13          S       WILV00
+WILV10          S       WILV00
+WIP1            CC      B7
+WIP2            CC      B7
+WIP3            CC      B7
+WIP4            CC      B7
+WIBP1           S       WIP1
+WIBP2           S       WIP2
+WIBP3           S       WIP3
+WIBP4           S       WIP4
+WIKILRS         CC      B7
+WIVCTMS         CC      B7
+WISCRT2         CC      B7
+WIENTER         CC      B7
+CWILV00         CC      B7
+CWILV01         S       CWILV00
+CWILV02         S       CWILV00
+CWILV03         S       CWILV00
+CWILV04         S       CWILV00
+CWILV05         S       CWILV00
+CWILV06         S       CWILV00
+CWILV07         S       CWILV00
+CWILV08         S       CWILV00
+CWILV09         S       CWILV00
+CWILV10         S       CWILV00
+CWILV11         S       CWILV00
+CWILV12         S       CWILV00
+CWILV13         S       CWILV00
+CWILV14         S       CWILV00
+CWILV15         S       CWILV00
+CWILV16         S       CWILV00
+CWILV17         S       CWILV00
+CWILV18         S       CWILV00
+CWILV19         S       CWILV00
+CWILV22         S       CWILV00
+CWILV21         S       CWILV00
+CWILV20         S       CWILV00
+CWILV23         S       CWILV00
+CWILV25         S       CWILV00
+CWILV26         S       CWILV00
+CWILV27         S       CWILV00
+CWILV28         S       CWILV00
+CWILV29         S       CWILV00
+CWILV24         S       CWILV00
+CWILV30         S       CWILV00
+CWILV31         S       CWILV00
+INTERPIC        S       TITLEPIC
+S_START         C
+CHGGA0          C
+CHGGB0          C
+CHGFA0          C
+CHGFB0          C
+SAWGA0          C
+SAWGB0          C
+SAWGC0          C
+SAWGD0          C
+PISGA0          C
+PISGB0          C
+PISGC0          C
+PISGD0          C
+PISGE0          C
+PISFA0          C
+BAL1A0          CC      B4
+BAL1B0          CC      B4
+BAL1C0          S       MISLB0
+BAL1D0          S       MISLC0
+BAL1E0          S       MISLD0
+PUFFA0          C
+PUFFB0          C
+PUFFC0          C
+PUFFD0          C
+BLUDA0          C
+BLUDB0          C
+BLUDC0          C
+BAL2A0          S       BAL1A0
+BAL2B0          S       BAL1B0
+BAL2C0          S       MISLB0
+BAL2D0          S       MISLC0
+BAL2E0          S       MISLD0
+MISLB0          C
+MISLC0          C
+MISLD0          C
+TFOGA0          C
+TFOGB0          C
+TFOGC0          C
+TFOGD0          C
+TFOGE0          C
+TFOGF0          C
+TFOGG0          C
+TFOGH0          C
+TFOGI0          C
+TFOGJ0          C
+IFOGA0          C
+IFOGB0          C
+IFOGC0          C
+IFOGD0          C
+IFOGE0          C
+APLSA0          S       BAL1A0
+APLSB0          S       BAL1B0
+APBXA0          S       BAL1A0
+APBXB0          S       BAL1B0
+APBXC0          S       BAL1A0
+APBXD0          S       BAL1B0
+APBXE0          S       BAL1A0
+MANFA1          S       BAL1A0
+MANFA8A2        S       BAL1B0
+MANFA7A3        S       BAL1A0
+MANFA6A4        S       BAL1B0
+MANFA5          S       BAL1A0
+MANFB1          S       BAL1B0
+MANFB8B2        S       BAL1A0
+MANFB7B3        S       BAL1B0
+MANFB6B4        S       BAL1A0
+MANFB5          S       BAL1B0
+BOSFA0          S       BAL1A0
+BOSFB0          S       BAL1B0
+BOSFC0          S       BAL1A0
+BOSFD0          S       BAL1B0
+PUNGA0          C
+PUNGB0          C
+PUNGC0          C
+PUNGD0          C
+MISGA0          C
+MISGB0          C
+MISFA0          C
+MISFB0          C
+MISFC0          C
+MISFD0          C
+MISLA1          C
+MISLA8A2        C
+MISLA7A3        C
+MISLA6A4        C
+MISLA5          C
+SHTGA0          C
+SHTGB0          C
+SHTGC0          C
+SHTGD0          C
+SHTFA0          C
+SHTFB0          C
+SHT2A0          C
+SHT2B0          C
+SHT2C0          C
+SHT2D0          C
+SHT2E0          C
+SHT2F0          C
+SHT2G0          C
+SHT2H0          C
+SHT2I0          C
+SHT2J0          C
+PLSGA0          C
+PLSGB0          C
+PLSFA0          C
+PLSFB0          C
+PLSSA0          C
+PLSSB0          C
+PLSEA0          C
+PLSEB0          C
+PLSEC0          C
+PLSED0          C
+PLSEE0          C
+BFGGA0          C
+BFGGB0          C
+BFGGC0          C
+BFGFA0          C
+BFGFB0          C
+BFS1A0          C
+BFS1B0          C
+BFE1A0          C
+BFE1B0          C
+BFE1C0          C
+BFE1D0          C
+BFE1E0          C
+BFE1F0          C
+BFE2A0          C
+BFE2B0          C
+BFE2C0          C
+BFE2D0          C
+SARGA1          S       PLAYA1
+SARGA2A8        S       PLAYA2A8
+SARGA3A7        S       PLAYA3A7
+SARGA4A6        S       PLAYA4A6
+SARGA5          S       PLAYA5
+SARGB1          S       PLAYB1
+SARGB2B8        S       PLAYB2B8
+SARGB3B7        S       PLAYB3B7
+SARGB4B6        S       PLAYB4B6
+SARGB5          S       PLAYB5
+SARGC1          S       PLAYC1
+SARGC2C8        S       PLAYC2C8
+SARGC3C7        S       PLAYC3C7
+SARGC4C6        S       PLAYC4C6
+SARGC5          S       PLAYC5
+SARGD1          S       PLAYD1
+SARGD2D8        S       PLAYD2D8
+SARGD3D7        S       PLAYD3D7
+SARGD4D6        S       PLAYD4D6
+SARGD5          S       PLAYD5
+SARGE1          S       PLAYE1
+SARGE2          S       PLAYE2E8
+SARGE3          S       PLAYE3E7
+SARGE4          S       PLAYE4E6
+SARGE5          S       PLAYE5
+SARGE6          S       PLAYE4E6
+SARGE7          S       PLAYE3E7
+SARGE8          S       PLAYE2E8
+SARGF1          S       PLAYF1
+SARGF2          S       PLAYF2F8
+SARGF3          S       PLAYF3F7
+SARGF4          S       PLAYF4F6
+SARGF5          S       PLAYF5
+SARGF6          S       PLAYF4F6
+SARGF7          S       PLAYF3F7
+SARGF8          S       PLAYF2F8
+SARGG1          S       PLAYE1
+SARGG2          S       PLAYE2E8
+SARGG3          S       PLAYE3E7
+SARGG4          S       PLAYE4E6
+SARGG5          S       PLAYE5
+SARGG6          S       PLAYE4E6
+SARGG7          S       PLAYE3E7
+SARGG8          S       PLAYE2E8
+SARGH1          S       PLAYF1
+SARGH2          S       PLAYF2F8
+SARGH3          S       PLAYF3F7
+SARGH4          S       PLAYF4F6
+SARGH5          S       PLAYF5
+SARGH6          S       PLAYF4F6
+SARGH7          S       PLAYF3F7
+SARGH8          S       PLAYF2F8
+SARGI0          S       PLAYH0
+SARGJ0          S       PLAYI0
+SARGK0          S       PLAYJ0
+SARGL0          S       PLAYK0
+SARGM0          S       PLAYL0
+SARGN0          S       PLAYM0
+TROOA1          S       PLAYA1
+TROOA2A8        S       PLAYA2A8
+TROOA3A7        S       PLAYA3A7
+TROOA4A6        S       PLAYA4A6
+TROOA5          S       PLAYA5
+TROOB1          S       PLAYB1
+TROOB2B8        S       PLAYB2B8
+TROOB3B7        S       PLAYB3B7
+TROOB4B6        S       PLAYB4B6
+TROOB5          S       PLAYB5
+TROOC1          S       PLAYC1
+TROOC2C8        S       PLAYC2C8
+TROOC3C7        S       PLAYC3C7
+TROOC4C6        S       PLAYC4C6
+TROOC5          S       PLAYC5
+TROOD1          S       PLAYD1
+TROOD2D8        S       PLAYD2D8
+TROOD3D7        S       PLAYD3D7
+TROOD4D6        S       PLAYD4D6
+TROOD5          S       PLAYD5
+TROOE1          S       PLAYE1
+TROOE2E8        S       PLAYE2E8
+TROOE3E7        S       PLAYE3E7
+TROOE4E6        S       PLAYE4E6
+TROOE5          S       PLAYE5
+TROOF1          S       PLAYF1
+TROOF2F8        S       PLAYF2F8
+TROOF3F7        S       PLAYF3F7
+TROOF4F6        S       PLAYF4F6
+TROOF5          S       PLAYF5
+TROOG1          S       PLAYE1
+TROOG2G8        S       PLAYE2E8
+TROOG3G7        S       PLAYE3E7
+TROOG4G6        S       PLAYE4E6
+TROOG5          S       PLAYE5
+TROOH1          S       PLAYG1
+TROOH2H8        S       PLAYG2G8
+TROOH3H7        S       PLAYG3G7
+TROOH4H6        S       PLAYG4G6
+TROOH5          S       PLAYG5
+TROOI0          S       PLAYH0
+TROOJ0          S       PLAYI0
+TROOK0          S       PLAYJ0
+TROOL0          S       PLAYK0
+TROOM0          S       PLAYL0
+TROON0          S       PLAYO0
+TROOO0          S       PLAYP0
+TROOP0          S       PLAYQ0
+TROOQ0          S       PLAYR0
+TROOR0          S       PLAYS0
+TROOS0          S       PLAYT0
+TROOT0          S       PLAYU0
+TROOU0          S       PLAYV0
+BOSSA1          S       PLAYA1
+BOSSA2A8        S       PLAYA2A8
+BOSSA3A7        S       PLAYA3A7
+BOSSA4A6        S       PLAYA4A6
+BOSSA5          S       PLAYA5
+BOSSB1          S       PLAYB1
+BOSSB2B8        S       PLAYB2B8
+BOSSB3B7        S       PLAYB3B7
+BOSSB4B6        S       PLAYB4B6
+BOSSB5          S       PLAYB5
+BOSSC1          S       PLAYC1
+BOSSC2C8        S       PLAYC2C8
+BOSSC3C7        S       PLAYC3C7
+BOSSC4C6        S       PLAYC4C6
+BOSSC5          S       PLAYC5
+BOSSD1          S       PLAYD1
+BOSSD2D8        S       PLAYD2D8
+BOSSD3D7        S       PLAYD3D7
+BOSSD4D6        S       PLAYD4D6
+BOSSD5          S       PLAYD5
+BOSSE1          S       PLAYE1
+BOSSE2          S       PLAYE2E8
+BOSSE3          S       PLAYE3E7
+BOSSE4          S       PLAYE4E6
+BOSSE5          S       PLAYE5
+BOSSE6          S       PLAYE4E6
+BOSSE7          S       PLAYE3E7
+BOSSE8          S       PLAYE2E8
+BOSSF1          S       PLAYF1
+BOSSF2          S       PLAYF2F8
+BOSSF3          S       PLAYF3F7
+BOSSF4          S       PLAYF4F6
+BOSSF5          S       PLAYF5
+BOSSF6          S       PLAYF4F6
+BOSSF7          S       PLAYF3F7
+BOSSF8          S       PLAYF2F8
+BOSSG1          S       PLAYE1
+BOSSG2          S       PLAYE2E8
+BOSSG3          S       PLAYE3E7
+BOSSG4          S       PLAYE4E6
+BOSSG5          S       PLAYE5
+BOSSG6          S       PLAYE4E6
+BOSSG7          S       PLAYE3E7
+BOSSG8          S       PLAYE2E8
+BOSSH1          S       PLAYG1
+BOSSH2          S       PLAYG2G8
+BOSSH3          S       PLAYG3G7
+BOSSH4          S       PLAYG4G6
+BOSSH5          S       PLAYG5
+BOSSH6          S       PLAYG4G6
+BOSSH7          S       PLAYG3G7
+BOSSH8          S       PLAYG2G8
+BOSSI0          S       PLAYH0
+BOSSJ0          S       PLAYI0
+BOSSK0          S       PLAYJ0
+BOSSL0          S       PLAYK0
+BOSSM0          S       PLAYL0
+BOSSN0          S       PLAYM0
+BOSSO0          S       PLAYN0
+BAL7A1A5        S       BAL1A0
+BAL7A2A8        S       BAL1B0
+BAL7A3A7        S       BAL1A0
+BAL7A4A6        S       BAL1B0
+BAL7B1B5        S       BAL1A0
+BAL7B2B8        S       BAL1B0
+BAL7B3B7        S       BAL1A0
+BAL7B4B6        S       BAL1B0
+BAL7C0          S       MISLB0
+BAL7D0          S       MISLC0
+BAL7E0          S       MISLD0
+BOS2A1C1        S       PLAYA1
+BOS2A2C8        S       PLAYA2A8
+BOS2A3C7        S       PLAYA3A7
+BOS2A4C6        S       PLAYA4A6
+BOS2A5C5        S       PLAYA5
+BOS2A6C4        S       PLAYA4A6
+BOS2A7C3        S       PLAYA3A7
+BOS2A8C2        S       PLAYA2A8
+BOS2B1D1        S       PLAYB1
+BOS2B2D8        S       PLAYB2B8
+BOS2B3D7        S       PLAYB3B7
+BOS2B4D6        S       PLAYB4B6
+BOS2B5D5        S       PLAYB5
+BOS2B6D4        S       PLAYB4B6
+BOS2B7D3        S       PLAYB3B7
+BOS2B8D2        S       PLAYB2B8
+BOS2E1          S       PLAYE1
+BOS2E2          S       PLAYE2E8
+BOS2E3          S       PLAYE3E7
+BOS2E4          S       PLAYE4E6
+BOS2E5          S       PLAYE5
+BOS2E6          S       PLAYE4E6
+BOS2E7          S       PLAYE3E7
+BOS2E8          S       PLAYE2E8
+BOS2F1          S       PLAYF1
+BOS2F2          S       PLAYF2F8
+BOS2F3          S       PLAYF3F7
+BOS2F4          S       PLAYF4F6
+BOS2F5          S       PLAYF5
+BOS2F6          S       PLAYF4F6
+BOS2F7          S       PLAYF3F7
+BOS2F8          S       PLAYF2F8
+BOS2G1          S       PLAYE1
+BOS2G2          S       PLAYE2E8
+BOS2G3          S       PLAYE3E7
+BOS2G4          S       PLAYE4E6
+BOS2G5          S       PLAYE5
+BOS2G6          S       PLAYE4E6
+BOS2G7          S       PLAYE3E7
+BOS2G8          S       PLAYE2E8
+BOS2H1          S       PLAYG1
+BOS2H2          S       PLAYG2G8
+BOS2H3          S       PLAYG3G7
+BOS2H4          S       PLAYG4G6
+BOS2H5          S       PLAYG5
+BOS2H6          S       PLAYG4G6
+BOS2H7          S       PLAYG3G7
+BOS2H8          S       PLAYG2G8
+BOS2I0          S       PLAYH0
+BOS2J0          S       PLAYI0
+BOS2K0          S       PLAYJ0
+BOS2L0          S       PLAYK0
+BOS2M0          S       PLAYL0
+BOS2N0          S       PLAYM0
+BOS2O0          S       PLAYN0
+PLAYA1          C
+PLAYA2A8        C
+PLAYA3A7        C
+PLAYA4A6        C
+PLAYA5          C
+PLAYB1          C
+PLAYB2B8        C
+PLAYB3B7        C
+PLAYB4B6        C
+PLAYB5          C
+PLAYC1          C
+PLAYC2C8        C
+PLAYC3C7        C
+PLAYC4C6        C
+PLAYC5          C
+PLAYD1          C
+PLAYD2D8        C
+PLAYD3D7        C
+PLAYD4D6        C
+PLAYD5          C
+PLAYE1          C
+PLAYE2E8        C
+PLAYE3E7        C
+PLAYE4E6        C
+PLAYE5          C
+PLAYF1          C
+PLAYF2F8        C
+PLAYF3F7        C
+PLAYF4F6        C
+PLAYF5          C
+PLAYG1          C
+PLAYG2G8        C
+PLAYG3G7        C
+PLAYG4G6        C
+PLAYG5          C
+PLAYH0          C
+PLAYI0          C
+PLAYJ0          C
+PLAYK0          C
+PLAYL0          C
+PLAYM0          C
+PLAYN0          C
+PLAYO0          C
+PLAYP0          C
+PLAYQ0          C
+PLAYR0          C
+PLAYS0          C
+PLAYT0          C
+PLAYU0          C
+PLAYV0          C
+PLAYW0          C
+POSSA1          S       PLAYA1
+POSSA2A8        S       PLAYA2A8
+POSSA3A7        S       PLAYA3A7
+POSSA4A6        S       PLAYA4A6
+POSSA5          S       PLAYA5
+POSSB1          S       PLAYB1
+POSSB2B8        S       PLAYB2B8
+POSSB3B7        S       PLAYB3B7
+POSSB4B6        S       PLAYB4B6
+POSSB5          S       PLAYB5
+POSSC1          S       PLAYC1
+POSSC2C8        S       PLAYC2C8
+POSSC3C7        S       PLAYC3C7
+POSSC4C6        S       PLAYC4C6
+POSSC5          S       PLAYC5
+POSSD1          S       PLAYD1
+POSSD2D8        S       PLAYD2D8
+POSSD3D7        S       PLAYD3D7
+POSSD4D6        S       PLAYD4D6
+POSSD5          S       PLAYD5
+POSSE1          S       PLAYE1
+POSSE2E8        S       PLAYE2E8
+POSSE3E7        S       PLAYE3E7
+POSSE4E6        S       PLAYE4E6
+POSSE5          S       PLAYE5
+POSSF1          S       PLAYF1
+POSSF2F8        S       PLAYF2F8
+POSSF3F7        S       PLAYF3F7
+POSSF4F6        S       PLAYF4F6
+POSSF5          S       PLAYF5
+POSSG1          S       PLAYG1
+POSSG2G8        S       PLAYG2G8
+POSSG3G7        S       PLAYG3G7
+POSSG4G6        S       PLAYG4G6
+POSSG5          S       PLAYG5
+POSSH0          S       PLAYH0
+POSSI0          S       PLAYI0
+POSSJ0          S       PLAYJ0
+POSSK0          S       PLAYK0
+POSSL0          S       PLAYL0
+POSSM0          S       PLAYO0
+POSSN0          S       PLAYP0
+POSSO0          S       PLAYQ0
+POSSP0          S       PLAYR0
+POSSQ0          S       PLAYS0
+POSSR0          S       PLAYT0
+POSSS0          S       PLAYU0
+POSST0          S       PLAYV0
+POSSU0          S       PLAYW0
+SPOSA1          S       PLAYA1
+SPOSA2A8        S       PLAYA2A8
+SPOSA3A7        S       PLAYA3A7
+SPOSA4A6        S       PLAYA4A6
+SPOSA5          S       PLAYA5
+SPOSB1          S       PLAYB1
+SPOSB2B8        S       PLAYB2B8
+SPOSB3B7        S       PLAYB3B7
+SPOSB4B6        S       PLAYB4B6
+SPOSB5          S       PLAYB5
+SPOSC1          S       PLAYC1
+SPOSC2C8        S       PLAYC2C8
+SPOSC3C7        S       PLAYC3C7
+SPOSC4C6        S       PLAYC4C6
+SPOSC5          S       PLAYC5
+SPOSD1          S       PLAYD1
+SPOSD2D8        S       PLAYD2D8
+SPOSD3D7        S       PLAYD3D7
+SPOSD4D6        S       PLAYD4D6
+SPOSD5          S       PLAYD5
+SPOSE1          S       PLAYE1
+SPOSE2E8        S       PLAYE2E8
+SPOSE3E7        S       PLAYE3E7
+SPOSE4E6        S       PLAYE4E6
+SPOSE5          S       PLAYE5
+SPOSF1          S       PLAYF1
+SPOSF2F8        S       PLAYF2F8
+SPOSF3F7        S       PLAYF3F7
+SPOSF4F6        S       PLAYF4F6
+SPOSF5          S       PLAYF5
+SPOSG1          S       PLAYG1
+SPOSG2G8        S       PLAYG2G8
+SPOSG3G7        S       PLAYG3G7
+SPOSG4G6        S       PLAYG4G6
+SPOSG5          S       PLAYG5
+SPOSH0          S       PLAYH0
+SPOSI0          S       PLAYI0
+SPOSJ0          S       PLAYJ0
+SPOSK0          S       PLAYK0
+SPOSL0          S       PLAYL0
+SPOSM0          S       PLAYO0
+SPOSN0          S       PLAYP0
+SPOSO0          S       PLAYQ0
+SPOSP0          S       PLAYR0
+SPOSQ0          S       PLAYS0
+SPOSR0          S       PLAYT0
+SPOSS0          S       PLAYU0
+SPOST0          S       PLAYV0
+SPOSU0          S       PLAYW0
+CPOSA1          S       PLAYA1
+CPOSA2          S       PLAYA2A8
+CPOSA3          S       PLAYA3A7
+CPOSA4          S       PLAYA4A6
+CPOSA5          S       PLAYA5
+CPOSA6          S       PLAYA4A6
+CPOSA7          S       PLAYA3A7
+CPOSA8          S       PLAYA2A8
+CPOSB1          S       PLAYB1
+CPOSB2          S       PLAYB2B8
+CPOSB3          S       PLAYB3B7
+CPOSB4          S       PLAYB4B6
+CPOSB5          S       PLAYB5
+CPOSB6          S       PLAYB4B6
+CPOSB7          S       PLAYB3B7
+CPOSB8          S       PLAYB2B8
+CPOSC1          S       PLAYC1
+CPOSC2          S       PLAYC2C8
+CPOSC3          S       PLAYC3C7
+CPOSC4          S       PLAYC4C6
+CPOSC5          S       PLAYC5
+CPOSC6          S       PLAYC4C6
+CPOSC7          S       PLAYC3C7
+CPOSC8          S       PLAYC2C8
+CPOSD1          S       PLAYD1
+CPOSD2          S       PLAYD2D8
+CPOSD3          S       PLAYD3D7
+CPOSD4          S       PLAYD4D6
+CPOSD5          S       PLAYD5
+CPOSD6          S       PLAYD4D6
+CPOSD7          S       PLAYD3D7
+CPOSD8          S       PLAYD2D8
+CPOSE1          S       PLAYE1
+CPOSE2          S       PLAYE2E8
+CPOSE3          S       PLAYE3E7
+CPOSE4          S       PLAYE4E6
+CPOSE5          S       PLAYE5
+CPOSE6          S       PLAYE4E6
+CPOSE7          S       PLAYE3E7
+CPOSE8          S       PLAYE2E8
+CPOSF1          S       PLAYF1
+CPOSF2          S       PLAYF2F8
+CPOSF3          S       PLAYF3F7
+CPOSF4          S       PLAYF4F6
+CPOSF5          S       PLAYF5
+CPOSF6          S       PLAYF4F6
+CPOSF7          S       PLAYF3F7
+CPOSF8          S       PLAYF2F8
+CPOSG1          S       PLAYG1
+CPOSG2          S       PLAYG2G8
+CPOSG3          S       PLAYG3G7
+CPOSG4          S       PLAYG4G6
+CPOSG5          S       PLAYG5
+CPOSG6          S       PLAYG4G6
+CPOSG7          S       PLAYG3G7
+CPOSG8          S       PLAYG2G8
+CPOSH0          S       PLAYH0
+CPOSI0          S       PLAYI0
+CPOSJ0          S       PLAYJ0
+CPOSK0          S       PLAYK0
+CPOSL0          S       PLAYL0
+CPOSM0          S       PLAYM0
+CPOSN0          S       PLAYN0
+CPOSO0          S       PLAYO0
+CPOSP0          S       PLAYP0
+CPOSQ0          S       PLAYQ0
+CPOSR0          S       PLAYR0
+CPOSS0          S       PLAYS0
+CPOST0          S       PLAYV0
+SKULA1          S       PLAYA1
+SKULA8A2        S       PLAYA2A8
+SKULA7A3        S       PLAYA3A7
+SKULA6A4        S       PLAYA4A6
+SKULA5          S       PLAYA5
+SKULB1          S       PLAYB1
+SKULB8B2        S       PLAYB2B8
+SKULB7B3        S       PLAYB3B7
+SKULB6B4        S       PLAYB4B6
+SKULB5          S       PLAYB5
+SKULC1          S       PLAYE1
+SKULC8C2        S       PLAYE2E8
+SKULC7C3        S       PLAYE3E7
+SKULC6C4        S       PLAYE4E6
+SKULC5          S       PLAYE5
+SKULD1          S       PLAYF1
+SKULD8D2        S       PLAYF2F8
+SKULD7D3        S       PLAYF3F7
+SKULD6D4        S       PLAYF4F6
+SKULD5          S       PLAYF5
+SKULE1          S       PLAYG1
+SKULE8E2        S       PLAYG2G8
+SKULE7E3        S       PLAYG3G7
+SKULE6E4        S       PLAYG4G6
+SKULE5          S       PLAYG5
+SKULF0          S       PLAYH0
+SKULG0          S       PLAYI0
+SKULH0          S       PLAYJ0
+SKULI0          S       PLAYK0
+SKULJ0          S       PLAYL0
+SKULK0          S       PLAYL0
+HEADA1          S       PLAYA1
+HEADA2A8        S       PLAYA2A8
+HEADA3A7        S       PLAYA3A7
+HEADA4A6        S       PLAYA4A6
+HEADA5          S       PLAYA5
+HEADB1          S       PLAYE1
+HEADC1          S       PLAYF1
+HEADD1          S       PLAYE1
+HEADB2B8        S       PLAYE2E8
+HEADC2C8        S       PLAYF2F8
+HEADD2D8        S       PLAYE2E8
+HEADB3B7        S       PLAYE3E7
+HEADC3C7        S       PLAYF3F7
+HEADD3D7        S       PLAYE3E7
+HEADB4B6        S       PLAYE4E6
+HEADC4C6        S       PLAYF4F6
+HEADD4D6        S       PLAYE4E6
+HEADB5          S       PLAYE5
+HEADC5          S       PLAYF5
+HEADD5          S       PLAYE5
+HEADE1          S       PLAYG1
+HEADF1          S       PLAYG1
+HEADG0          S       PLAYG1
+HEADE2E8        S       PLAYG2G8
+HEADF2F8        S       PLAYG2G8
+HEADE3E7        S       PLAYG3G7
+HEADF3F7        S       PLAYG3G7
+HEADE4E6        S       PLAYG4G6
+HEADF4F6        S       PLAYG4G6
+HEADE5          S       PLAYG5
+HEADF5          S       PLAYG5
+HEADH0          S       PLAYO0
+HEADI0          S       PLAYP0
+HEADJ0          S       PLAYQ0
+HEADK0          S       PLAYR0
+HEADL0          S       PLAYV0
+PAINA1          S       PLAYA1
+PAINA2A8        S       PLAYA2A8
+PAINA3A7        S       PLAYA3A7
+PAINA4A6        S       PLAYA4A6
+PAINA5          S       PLAYA5
+PAINB1          S       PLAYB1
+PAINB2B8        S       PLAYB2B8
+PAINB3B7        S       PLAYB3B7
+PAINB4B6        S       PLAYB4B6
+PAINB5          S       PLAYB5
+PAINC1          S       PLAYC1
+PAINC2C8        S       PLAYC2C8
+PAINC3C7        S       PLAYC3C7
+PAINC4C6        S       PLAYC4C6
+PAINC5          S       PLAYC5
+PAIND1          S       PLAYE1
+PAIND2D8        S       PLAYE2E8
+PAIND3D7        S       PLAYE3E7
+PAIND4D6        S       PLAYE4E6
+PAIND5          S       PLAYE5
+PAINE1          S       PLAYF1
+PAINE2E8        S       PLAYF2F8
+PAINE3E7        S       PLAYF3F7
+PAINE4E6        S       PLAYF4F6
+PAINE5          S       PLAYF5
+PAINF1          S       PLAYE1
+PAINF2F8        S       PLAYE2E8
+PAINF3F7        S       PLAYE3E7
+PAINF4F6        S       PLAYE4E6
+PAINF5          S       PLAYE5
+PAING1          S       PLAYG1
+PAING2G8        S       PLAYG2G8
+PAING3G7        S       PLAYG3G7
+PAING4G6        S       PLAYG4G6
+PAING5          S       PLAYG5
+PAINH0          S       PLAYO0
+PAINI0          S       PLAYP0
+PAINJ0          S       PLAYQ0
+PAINK0          S       PLAYR0
+PAINL0          S       PLAYS0
+PAINM0          S       PLAYV0
+CYBRA1          S       PLAYA1
+CYBRA2          S       PLAYA2A8
+CYBRA3          S       PLAYA3A7
+CYBRA4          S       PLAYA4A6
+CYBRA5          S       PLAYA5
+CYBRA6          S       PLAYA4A6
+CYBRA7          S       PLAYA3A7
+CYBRA8          S       PLAYA2A8
+CYBRB1          S       PLAYB1
+CYBRB2          S       PLAYB2B8
+CYBRB3          S       PLAYB3B7
+CYBRB4          S       PLAYB4B6
+CYBRB5          S       PLAYB5
+CYBRB6          S       PLAYB4B6
+CYBRB7          S       PLAYB3B7
+CYBRB8          S       PLAYB2B8
+CYBRC1          S       PLAYC1
+CYBRC2          S       PLAYC2C8
+CYBRC3          S       PLAYC3C7
+CYBRC4          S       PLAYC4C6
+CYBRC5          S       PLAYC5
+CYBRC6          S       PLAYC4C6
+CYBRC7          S       PLAYC3C7
+CYBRC8          S       PLAYC2C8
+CYBRD1          S       PLAYD1
+CYBRD2          S       PLAYD2D8
+CYBRD3          S       PLAYD3D7
+CYBRD4          S       PLAYD4D6
+CYBRD5          S       PLAYD5
+CYBRD6          S       PLAYD4D6
+CYBRD7          S       PLAYD3D7
+CYBRD8          S       PLAYD2D8
+CYBRE1          S       PLAYE1
+CYBRE2          S       PLAYE2E8
+CYBRE3          S       PLAYE3E7
+CYBRE4          S       PLAYE4E6
+CYBRE5          S       PLAYE5
+CYBRE6          S       PLAYE4E6
+CYBRE7          S       PLAYE3E7
+CYBRE8          S       PLAYE2E8
+CYBRF1          S       PLAYF1
+CYBRF2          S       PLAYF2F8
+CYBRF3          S       PLAYF3F7
+CYBRF4          S       PLAYF4F6
+CYBRF5          S       PLAYF5
+CYBRF6          S       PLAYF4F6
+CYBRF7          S       PLAYF3F7
+CYBRF8          S       PLAYF2F8
+CYBRG1          S       PLAYG1
+CYBRG2          S       PLAYG2G8
+CYBRG3          S       PLAYG3G7
+CYBRG4          S       PLAYG4G6
+CYBRG5          S       PLAYG5
+CYBRG6          S       PLAYG4G6
+CYBRG7          S       PLAYG3G7
+CYBRG8          S       PLAYG2G8
+CYBRH0          S       PLAYO0
+CYBRI0          S       PLAYP0
+CYBRJ0          S       PLAYQ0
+CYBRK0          S       PLAYR0
+CYBRL0          S       PLAYS0
+CYBRM0          S       PLAYT0
+CYBRN0          S       PLAYU0
+CYBRO0          S       PLAYV0
+CYBRP0          S       PLAYW0
+SPIDA1D1        S       PLAYA1
+SPIDA2A8        S       PLAYA2A8
+SPIDA3A7        S       PLAYA3A7
+SPIDA4A6        S       PLAYA4A6
+SPIDA5D5        S       PLAYA5
+SPIDB1E1        S       PLAYB1
+SPIDB2B8        S       PLAYB2B8
+SPIDB3B7        S       PLAYB3B7
+SPIDB4B6        S       PLAYB4B6
+SPIDB5E5        S       PLAYB5
+SPIDC1F1        S       PLAYC1
+SPIDC2C8        S       PLAYC2C8
+SPIDC3C7        S       PLAYC3C7
+SPIDC4C6        S       PLAYC4C6
+SPIDC5F5        S       PLAYC5
+SPIDD2D8        S       PLAYA2A8
+SPIDD3D7        S       PLAYA3A7
+SPIDD4D6        S       PLAYA4A6
+SPIDE2E8        S       PLAYB2B8
+SPIDE3E7        S       PLAYB3B7
+SPIDE4E6        S       PLAYB4B6
+SPIDF2F8        S       PLAYC2C8
+SPIDF3F7        S       PLAYC3C7
+SPIDF4F6        S       PLAYC4C6
+SPIDG1          S       PLAYE1
+SPIDG2G8        S       PLAYE2E8
+SPIDG3G7        S       PLAYE3E7
+SPIDG4G6        S       PLAYE4E6
+SPIDG5          S       PLAYE5
+SPIDH1          S       PLAYF1
+SPIDH2H8        S       PLAYF2F8
+SPIDH3H7        S       PLAYF3F7
+SPIDH4H6        S       PLAYF4F6
+SPIDH5          S       PLAYF5
+SPIDI1          S       PLAYG1
+SPIDI2          S       PLAYG2G8
+SPIDI3          S       PLAYG3G7
+SPIDI4          S       PLAYG4G6
+SPIDI5          S       PLAYG5
+SPIDI6          S       PLAYG4G6
+SPIDI7          S       PLAYG3G7
+SPIDI8          S       PLAYG2G8
+SPIDJ0          S       PLAYO0
+SPIDK0          S       PLAYP0
+SPIDL0          S       PLAYQ0
+SPIDM0          S       PLAYR0
+SPIDN0          S       PLAYS0
+SPIDO0          S       PLAYT0
+SPIDP0          S       PLAYU0
+SPIDQ0          S       PLAYV0
+SPIDR0          S       PLAYW0
+SPIDS0          S       PLAYW0
+BSPIA1D1        S       PLAYA1
+BSPIA2A8        S       PLAYA2A8
+BSPIA3A7        S       PLAYA3A7
+BSPIA4A6        S       PLAYA4A6
+BSPIA5D5        S       PLAYA5
+BSPIB1E1        S       PLAYB1
+BSPIB2B8        S       PLAYB2B8
+BSPIB3B7        S       PLAYB3B7
+BSPIB4B6        S       PLAYB4B6
+BSPIB5E5        S       PLAYB5
+BSPIC1F1        S       PLAYC1
+BSPIC2C8        S       PLAYC2C8
+BSPIC3C7        S       PLAYC3C7
+BSPIC4C6        S       PLAYC4C6
+BSPIC5F5        S       PLAYC5
+BSPID2D8        S       PLAYA2A8
+BSPID3D7        S       PLAYA3A7
+BSPID4D6        S       PLAYA4A6
+BSPIE2E8        S       PLAYB2B8
+BSPIE3E7        S       PLAYB3B7
+BSPIE4E6        S       PLAYB4B6
+BSPIF2F8        S       PLAYC2C8
+BSPIF3F7        S       PLAYC3C7
+BSPIF4F6        S       PLAYC4C6
+BSPIG1          S       PLAYE1
+BSPIG2G8        S       PLAYE2E8
+BSPIG3G7        S       PLAYE3E7
+BSPIG4G6        S       PLAYE4E6
+BSPIG5          S       PLAYE5
+BSPIH1          S       PLAYF1
+BSPIH2H8        S       PLAYF2F8
+BSPIH3H7        S       PLAYF3F7
+BSPIH4H6        S       PLAYF4F6
+BSPIH5          S       PLAYF5
+BSPII1          S       PLAYG1
+BSPII2          S       PLAYG2G8
+BSPII3          S       PLAYG3G7
+BSPII4          S       PLAYG4G6
+BSPII5          S       PLAYG5
+BSPII6          S       PLAYG4G6
+BSPII7          S       PLAYG3G7
+BSPII8          S       PLAYG2G8
+BSPIJ0          S       PLAYH0
+BSPIK0          S       PLAYI0
+BSPIL0          S       PLAYJ0
+BSPIM0          S       PLAYK0
+BSPIN0          S       PLAYL0
+BSPIO0          S       PLAYM0
+BSPIP0          S       PLAYN0
+FATTA1          S       PLAYA1
+FATTA2A8        S       PLAYA2A8
+FATTA3A7        S       PLAYA3A7
+FATTA4A6        S       PLAYA4A6
+FATTA5          S       PLAYA5
+FATTB1          S       PLAYB1
+FATTB2B8        S       PLAYB2B8
+FATTB3B7        S       PLAYB3B7
+FATTB4B6        S       PLAYB4B6
+FATTB5          S       PLAYB5
+FATTC1          S       PLAYC1
+FATTC2C8        S       PLAYC2C8
+FATTC3C7        S       PLAYC3C7
+FATTC4C6        S       PLAYC4C6
+FATTC5          S       PLAYC5
+FATTD1          S       PLAYD1
+FATTD2D8        S       PLAYD2D8
+FATTD3D7        S       PLAYD3D7
+FATTD4D6        S       PLAYD4D6
+FATTD5          S       PLAYD5
+FATTE1          S       PLAYA1
+FATTE2E8        S       PLAYA2A8
+FATTE3E7        S       PLAYA3A7
+FATTE4E6        S       PLAYA4A6
+FATTE5          S       PLAYA5
+FATTF1          S       PLAYB1
+FATTF2F8        S       PLAYB2B8
+FATTF3F7        S       PLAYB3B7
+FATTF4F6        S       PLAYB4B6
+FATTF5          S       PLAYB5
+FATTG1          S       PLAYE1
+FATTG2G8        S       PLAYE2E8
+FATTG3G7        S       PLAYE3E7
+FATTG4G6        S       PLAYE4E6
+FATTG5          S       PLAYE5
+FATTH1          S       PLAYF1
+FATTH2H8        S       PLAYF2F8
+FATTH3H7        S       PLAYF3F7
+FATTH4H6        S       PLAYF4F6
+FATTH5          S       PLAYF5
+FATTI1          S       PLAYE1
+FATTI2I8        S       PLAYE2E8
+FATTI3I7        S       PLAYE3E7
+FATTI4I6        S       PLAYE4E6
+FATTI5          S       PLAYE5
+FATTJ1          S       PLAYG1
+FATTJ2          S       PLAYG2G8
+FATTJ3          S       PLAYG3G7
+FATTJ4          S       PLAYG4G6
+FATTJ5          S       PLAYG5
+FATTJ6          S       PLAYG4G6
+FATTJ7          S       PLAYG3G7
+FATTJ8          S       PLAYG2G8
+FATTK0          S       PLAYH0
+FATTL0          S       PLAYI0
+FATTM0          S       PLAYJ0
+FATTN0          S       PLAYK0
+FATTO0          S       PLAYL0
+FATTP0          S       PLAYM0
+FATTQ0          S       PLAYN0
+FATTR0          S       PLAYN0
+FATTS0          S       PLAYN0
+FATTT0          S       PLAYN0
+FATBA1          S       BAL1A0
+FATBA2A8        S       BAL1A0
+FATBA3A7        S       BAL1A0
+FATBA4A6        S       BAL1A0
+FATBA5          S       BAL1A0
+FATBB1          S       BAL1B0
+FATBB2B8        S       BAL1B0
+FATBB3B7        S       BAL1B0
+FATBB4B6        S       BAL1B0
+FATBB5          S       BAL1B0
+FBXPA0          S       MISLB0
+FBXPB0          S       MISLC0
+FBXPC0          S       MISLD0
+SKELA1D1        S       PLAYA1
+SKELA2D8        S       PLAYA2A8
+SKELA3D7        S       PLAYA3A7
+SKELA4D6        S       PLAYA4A6
+SKELA5D5        S       PLAYA5
+SKELA6D4        S       PLAYA4A6
+SKELA7D3        S       PLAYA3A7
+SKELA8D2        S       PLAYA2A8
+SKELB1E1        S       PLAYB1
+SKELB2E8        S       PLAYB2B8
+SKELB3E7        S       PLAYB3B7
+SKELB4E6        S       PLAYB4B6
+SKELB5E5        S       PLAYB5
+SKELB6E4        S       PLAYB4B6
+SKELB7E3        S       PLAYB3B7
+SKELB8E2        S       PLAYB2B8
+SKELC1F1        S       PLAYC1
+SKELC2F8        S       PLAYC2C8
+SKELC3F7        S       PLAYC3C7
+SKELC4F6        S       PLAYC4C6
+SKELC5F5        S       PLAYC5
+SKELC6F4        S       PLAYC4C6
+SKELC7F3        S       PLAYC3C7
+SKELC8F2        S       PLAYC2C8
+SKELG1          S       PLAYD1
+SKELG2          S       PLAYD2D8
+SKELG3          S       PLAYD3D7
+SKELG4          S       PLAYD4D6
+SKELG5          S       PLAYD5
+SKELG6          S       PLAYD4D6
+SKELG7          S       PLAYD3D7
+SKELG8          S       PLAYD2D8
+SKELH1          S       PLAYA1
+SKELH2          S       PLAYA2A8
+SKELH3          S       PLAYA3A7
+SKELH4          S       PLAYA4A6
+SKELH5          S       PLAYA5
+SKELH6          S       PLAYA4A6
+SKELH7          S       PLAYA3A7
+SKELH8          S       PLAYA2A8
+SKELI1          S       PLAYB1
+SKELI2          S       PLAYB2B8
+SKELI3          S       PLAYB3B7
+SKELI4          S       PLAYB4B6
+SKELI5          S       PLAYB5
+SKELI6          S       PLAYB4B6
+SKELI7          S       PLAYB3B7
+SKELI8          S       PLAYB2B8
+SKELJ1          S       PLAYF1
+SKELJ2          S       PLAYF2F8
+SKELJ3          S       PLAYF3F7
+SKELJ4          S       PLAYF4F6
+SKELJ5          S       PLAYF5
+SKELJ6          S       PLAYF4F6
+SKELJ7          S       PLAYF3F7
+SKELJ8          S       PLAYF2F8
+SKELK1          S       PLAYE1
+SKELK2          S       PLAYE2E8
+SKELK3          S       PLAYE3E7
+SKELK4          S       PLAYE4E6
+SKELK5          S       PLAYE5
+SKELK6          S       PLAYE4E6
+SKELK7          S       PLAYE3E7
+SKELK8          S       PLAYE2E8
+SKELL1          S       PLAYG1
+SKELL2          S       PLAYG2G8
+SKELL3          S       PLAYG3G7
+SKELL4          S       PLAYG4G6
+SKELL5          S       PLAYG5
+SKELL6          S       PLAYG4G6
+SKELL7          S       PLAYG3G7
+SKELL8          S       PLAYG2G8
+SKELM0          S       PLAYH0
+SKELN0          S       PLAYI0
+SKELO0          S       PLAYJ0
+SKELP0          S       PLAYK0
+SKELQ0          S       PLAYL0
+VILEA1D1        S       PLAYA1
+VILEA2D8        S       PLAYA2A8
+VILEA3D7        S       PLAYA3A7
+VILEA4D6        S       PLAYA4A6
+VILEA5D5        S       PLAYA5
+VILEA6D4        S       PLAYA4A6
+VILEA7D3        S       PLAYA3A7
+VILEA8D2        S       PLAYA2A8
+VILEB1E1        S       PLAYB1
+VILEB2E8        S       PLAYB2B8
+VILEB3E7        S       PLAYB3B7
+VILEB4E6        S       PLAYB4B6
+VILEB5E5        S       PLAYB5
+VILEB6E4        S       PLAYB4B6
+VILEB7E3        S       PLAYB3B7
+VILEB8E2        S       PLAYB2B8
+VILEC1F1        S       PLAYC1
+VILEC2F8        S       PLAYC2C8
+VILEC3F7        S       PLAYC3C7
+VILEC4F6        S       PLAYC4C6
+VILEC5F5        S       PLAYC5
+VILEC6F4        S       PLAYC4C6
+VILEC7F3        S       PLAYC3C7
+VILEC8F2        S       PLAYC2C8
+VILEG1          S       PLAYE1
+VILEG2          S       PLAYE2E8
+VILEG3          S       PLAYE3E7
+VILEG4          S       PLAYE4E6
+VILEG5          S       PLAYE5
+VILEG6          S       PLAYE4E6
+VILEG7          S       PLAYE3E7
+VILEG8          S       PLAYE2E8
+VILEH1          S       PLAYF1
+VILEH2          S       PLAYF2F8
+VILEH3          S       PLAYF3F7
+VILEH4          S       PLAYF4F6
+VILEH5          S       PLAYF5
+VILEH6          S       PLAYF4F6
+VILEH7          S       PLAYF3F7
+VILEH8          S       PLAYF2F8
+VILEI1          S       PLAYE1
+VILEI2          S       PLAYE2E8
+VILEI3          S       PLAYE3E7
+VILEI4          S       PLAYE4E6
+VILEI5          S       PLAYE5
+VILEI6          S       PLAYE4E6
+VILEI7          S       PLAYE3E7
+VILEI8          S       PLAYE2E8
+VILEJ1          S       PLAYF1
+VILEJ2          S       PLAYF2F8
+VILEJ3          S       PLAYF3F7
+VILEJ4          S       PLAYF4F6
+VILEJ5          S       PLAYF5
+VILEJ6          S       PLAYF4F6
+VILEJ7          S       PLAYF3F7
+VILEJ8          S       PLAYF2F8
+VILEK1          S       PLAYE1
+VILEK2          S       PLAYE2E8
+VILEK3          S       PLAYE3E7
+VILEK4          S       PLAYE4E6
+VILEK5          S       PLAYE5
+VILEK6          S       PLAYE4E6
+VILEK7          S       PLAYE3E7
+VILEK8          S       PLAYE2E8
+VILEL1          S       PLAYF1
+VILEL2          S       PLAYF2F8
+VILEL3          S       PLAYF3F7
+VILEL4          S       PLAYF4F6
+VILEL5          S       PLAYF5
+VILEL6          S       PLAYF4F6
+VILEL7          S       PLAYF3F7
+VILEL8          S       PLAYF2F8
+VILEM1          S       PLAYE1
+VILEM2          S       PLAYE2E8
+VILEM3          S       PLAYE3E7
+VILEM4          S       PLAYE4E6
+VILEM5          S       PLAYE5
+VILEM6          S       PLAYE4E6
+VILEM7          S       PLAYE3E7
+VILEM8          S       PLAYE2E8
+VILEN1          S       PLAYF1
+VILEN2          S       PLAYF2F8
+VILEN3          S       PLAYF3F7
+VILEN4          S       PLAYF4F6
+VILEN5          S       PLAYF5
+VILEN6          S       PLAYF4F6
+VILEN7          S       PLAYF3F7
+VILEN8          S       PLAYF2F8
+VILEO1          S       PLAYE1
+VILEO2          S       PLAYE2E8
+VILEO3          S       PLAYE3E7
+VILEO4          S       PLAYE4E6
+VILEO5          S       PLAYE5
+VILEO6          S       PLAYE4E6
+VILEO7          S       PLAYE3E7
+VILEO8          S       PLAYE2E8
+VILEP1          S       PLAYF1
+VILEP2          S       PLAYF2F8
+VILEP3          S       PLAYF3F7
+VILEP4          S       PLAYF4F6
+VILEP5          S       PLAYF5
+VILEP6          S       PLAYF4F6
+VILEP7          S       PLAYF3F7
+VILEP8          S       PLAYF2F8
+VILEQ1          S       PLAYG1
+VILEQ2          S       PLAYG2G8
+VILEQ3          S       PLAYG3G7
+VILEQ4          S       PLAYG4G6
+VILEQ5          S       PLAYG5
+VILEQ6          S       PLAYG4G6
+VILEQ7          S       PLAYG3G7
+VILEQ8          S       PLAYG2G8
+VILER0          S       PLAYO0
+VILES0          S       PLAYP0
+VILET0          S       PLAYQ0
+VILEU0          S       PLAYR0
+VILEV0          S       PLAYS0
+VILEW0          S       PLAYT0
+VILEX0          S       PLAYU0
+VILEY0          S       PLAYV0
+VILEZ0          S       PLAYW0
+VILE[1          S       PLAYE1
+VILE[2          S       PLAYE2E8
+VILE[3          S       PLAYE3E7
+VILE[4          S       PLAYE4E6
+VILE[5          S       PLAYE5
+VILE[6          S       PLAYE4E6
+VILE[7          S       PLAYE3E7
+VILE[8          S       PLAYE2E8
+VILE\1          S       PLAYF1
+VILE\2          S       PLAYF2F8
+VILE\3          S       PLAYF3F7
+VILE\4          S       PLAYF4F6
+VILE\5          S       PLAYF5
+VILE\6          S       PLAYF4F6
+VILE\7          S       PLAYF3F7
+VILE\8          S       PLAYF2F8
+VILE]1          S       PLAYE1
+VILE]2          S       PLAYE2E8
+VILE]3          S       PLAYE3E7
+VILE]4          S       PLAYE4E6
+VILE]5          S       PLAYE5
+VILE]6          S       PLAYE4E6
+VILE]7          S       PLAYE3E7
+VILE]8          S       PLAYE2E8
+FIREA0          S       MISLB0
+FIREB0          S       MISLC0
+FIREC0          S       MISLC0
+FIRED0          S       MISLD0
+FIREE0          S       MISLD0
+FIREF0          S       MISLC0
+FIREG0          S       MISLC0
+FIREH0          S       MISLB0
+SSWVA1          S       PLAYA1
+SSWVA2          S       PLAYA2A8
+SSWVA3          S       PLAYA3A7
+SSWVA4          S       PLAYA4A6
+SSWVA5          S       PLAYA5
+SSWVA6          S       PLAYA4A6
+SSWVA7          S       PLAYA3A7
+SSWVA8          S       PLAYA2A8
+SSWVB1          S       PLAYB1
+SSWVB2          S       PLAYB2B8
+SSWVB3          S       PLAYB3B7
+SSWVB4          S       PLAYB4B6
+SSWVB5          S       PLAYB5
+SSWVB6          S       PLAYB4B6
+SSWVB7          S       PLAYB3B7
+SSWVB8          S       PLAYB2B8
+SSWVC1          S       PLAYC1
+SSWVC2          S       PLAYC2C8
+SSWVC3          S       PLAYC3C7
+SSWVC4          S       PLAYC4C6
+SSWVC5          S       PLAYC5
+SSWVC6          S       PLAYC4C6
+SSWVC7          S       PLAYC3C7
+SSWVC8          S       PLAYC2C8
+SSWVD1          S       PLAYD1
+SSWVD2          S       PLAYD2D8
+SSWVD3          S       PLAYD3D7
+SSWVD4          S       PLAYD4D6
+SSWVD5          S       PLAYD5
+SSWVD6          S       PLAYD4D6
+SSWVD7          S       PLAYD3D7
+SSWVD8          S       PLAYD2D8
+SSWVE0          S       PLAYE1
+SSWVF0          S       PLAYF1
+SSWVG0          S       PLAYE1
+SSWVH0          S       PLAYG1
+SSWVI0          S       PLAYH0
+SSWVJ0          S       PLAYI0
+SSWVK0          S       PLAYJ0
+SSWVL0          S       PLAYK0
+SSWVM0          S       PLAYL0
+SSWVN0          S       PLAYO0
+SSWVO0          S       PLAYP0
+SSWVP0          S       PLAYQ0
+SSWVQ0          S       PLAYR0
+SSWVR0          S       PLAYS0
+SSWVS0          S       PLAYT0
+SSWVT0          S       PLAYU0
+SSWVU0          S       PLAYV0
+SSWVV0          S       PLAYW0
+POL5A0          C
+CANDA0          C
+CBRAA0          S       TLP2A0
+SHOTA0          C
+MGUNA0          C
+LAUNA0          C
+CSAWA0          C
+CLIPA0          C
+SHELA0          C
+ROCKA0          C
+STIMA0          C
+MEDIA0          C
+ARM1A0          C
+ARM1B0          C
+ARM2A0          C
+ARM2B0          C
+BAR1A0          C
+BAR1B0          C
+COLUA0          S       TLP2A0
+BPAKA0          C
+BROKA0          C
+AMMOA0          C
+SBOXA0          C
+ELECA0          S       COL2A0
+BKEYA0          C
+BKEYB0          S       BKEYA0
+YKEYA0          C
+YKEYB0          S       YKEYA0
+RKEYA0          C
+RKEYB0          S       RKEYA0
+SUITA0          C
+PVISA0          C
+PVISB0          C
+BBRNA0          S       PLAYA1
+BBRNB0          S       PLAYG1
+BEXPA0          C
+BEXPB0          C
+BEXPC0          C
+BEXPD0          C
+BEXPE0          C
+PMAPA0          C
+PMAPB0          S       PMAPA0
+PMAPC0          S       PMAPA0
+PMAPD0          S       PMAPA0
+PINSA0          C
+PINSB0          C       PINSA0
+PINSC0          C       PINSA0
+PINSD0          C       PINSA0
+BON1A0          C       BON1B0
+BON1B0          C
+BON1C0          C       BON1B0
+BON1D0          C       BON1B0
+SOULA0          C       SOULD0
+SOULB0          C       SOULD0
+SOULC0          C       SOULD0
+SOULD0          C
+BON2A0          C       BON2D0
+BON2B0          C       BON2D0
+BON2C0          C       BON2D0
+BON2D0          C
+SGN2A0          C
+TREDA0          S       TLP2A0
+TREDB0          S       TLP2B0
+TREDC0          S       TLP2A0
+TREDD0          S       TLP2B0
+POL1A0          S       POL2A0
+POL2A0          C
+POL3A0          S       POL2A0
+POL3B0          S       POL2A0
+POL4A0          S       POL2A0
+POL6A0          S       POL2A0
+POL6B0          S       POL2A0
+COL1A0          S       COL2A0
+COL2A0          C
+COL3A0          S       COL2A0
+COL4A0          S       COL2A0
+COL5A0          S       COL2A0
+COL5B0          S       COL2A0
+FSKUA0          S       COL2A0
+FSKUB0          S       COL2A0
+FSKUC0          S       COL2A0
+COL6A0          S       COL2A0
+CEYEA0          S       COL2A0
+CEYEB0          S       COL2A0
+CEYEC0          S       COL2A0
+TRE1A0          C
+SMITA0          S       TRE1A0
+SMT2A0          S       TRE1A0
+BSKUA0          C
+BSKUB0          S       BSKUA0
+RSKUA0          C
+RSKUB0          S       RSKUA0
+YSKUA0          C
+YSKUB0          S       YSKUA0
+TRE2A0          S       TRE1A0
+PLASA0          C
+BFUGA0          C
+CELLA0          C
+PSTRA0          C
+CELPA0          C
+GOR1A0          S       GOR4A0
+GOR1B0          S       GOR4A0
+GOR1C0          S       GOR4A0
+GOR2A0          S       GOR4A0
+GOR3A0          S       GOR4A0
+GOR4A0          C
+GOR5A0          S       GOR4A0
+TGRNA0          S       TLP2A0
+TGRNB0          S       TLP2B0
+TGRNC0          S       TLP2A0
+TGRND0          S       TLP2B0
+TBLUA0          S       TLP2A0
+TBLUB0          S       TLP2B0
+TBLUC0          S       TLP2A0
+TBLUD0          S       TLP2B0
+SMRTA0          S       TLP2A0
+SMRTB0          S       TLP2B0
+SMRTC0          S       TLP2A0
+SMRTD0          S       TLP2B0
+SMBTA0          S       TLP2A0
+SMBTB0          S       TLP2B0
+SMBTC0          S       TLP2A0
+SMBTD0          S       TLP2B0
+SMGTA0          S       TLP2A0
+SMGTB0          S       TLP2B0
+SMGTC0          S       TLP2A0
+SMGTD0          S       TLP2B0
+PINVA0          C
+PINVB0          C       PINVA0
+PINVC0          C       PINVA0
+PINVD0          C       PINVA0
+FCANA0          S       COL2A0
+FCANB0          S       COL2A0
+FCANC0          S       COL2A0
+MEGAA0          C       MEGAB0
+MEGAB0          C
+MEGAC0          C       MEGAB0
+MEGAD0          C       MEGAB0
+HDB1A0          S       GOR4A0
+HDB2A0          S       GOR4A0
+HDB3A0          S       GOR4A0
+HDB4A0          S       GOR4A0
+HDB5A0          S       GOR4A0
+HDB6A0          S       GOR4A0
+POB1A0          S       POL5A0
+POB2A0          S       POL5A0
+BRS1A0          S       POL5A0
+KEENA0          S       PLAYA1
+KEENB0          S       PLAYO0
+KEENC0          S       PLAYP0
+KEEND0          S       PLAYQ0
+KEENE0          S       PLAYR0
+KEENF0          S       PLAYS0
+KEENG0          S       PLAYT0
+KEENH0          S       PLAYU0
+KEENI0          S       PLAYV0
+KEENJ0          S       PLAYW0
+KEENK0          S       PLAYW0
+KEENL0          S       PLAYW0
+KEENM0          S       PLAYG1
+TLMPA0          S       TLP2A0
+TLMPB0          S       TLP2B0
+TLMPC0          S       TLP2A0
+TLMPD0          S       TLP2B0
+TLP2A0          C
+TLP2B0          C
+TLP2C0          S       TLP2A0
+TLP2D0          S       TLP2B0
+S_END           C
+P_START         C
+P1_START        C
+WALL00_1        S       RW8_1
+WALL00_2        S       WALL00_7
+WALL00_3        S       WALL00_7
+WALL00_5        S       WALL00_7
+WALL00_6        S       WALL00_7
+WALL00_7        C
+WALL00_8        S       WALL00_7
+WALL01_1        S       WALL01_4
+WALL01_2        S       WALL01_4
+WALL01_3        S       WALL01_4
+WALL01_4        C
+WALL01_5        S       WALL01_4
+WALL01_6        S       WALL01_4
+WALL01_7        S       WALL01_4
+WALL01_8        S       WALL01_4
+WALL01_9        S       WALL01_4
+WALL01_A        S       WALL01_4
+WALL01_B        S       WALL01_4
+WALL01_C        S       WALL01_4
+WALL02_1        S       WALL02_2
+WALL02_2        C
+WALL02_3        S       WALL02_2        // ?
+WALL03_1        C
+WALL03_4        S       WALL02_2
+WALL03_7        S       W28_8
+WALL04_2        S       WALL01_4
+WALL04_3        S       WALL01_4
+WALL04_4        S       WALL01_4
+WALL04_5        S       WALL01_4
+WALL04_7        S       WALL01_4
+WALL05_2        S       WALL02_2
+W13_1           S       WALL02_2
+W17_1           S       W107_1
+W28_5           S       W28_8
+W28_6           S       W28_8
+W28_7           S       W28_8
+W28_8           C
+W31_1           C
+W32_1           S       W31_1
+W32_4           S       W31_1
+W33_5           S       W31_1
+W33_7           S       W31_1
+W33_8           S       W31_1           // ?
+W46_37          C
+W46_38          C
+W46_39          C
+WALL62_1        C
+WALL62_2        S       RW10_1
+W94_1           S       WALL62_1
+W111_2          C
+W111_3          S       W111_2
+W112_1          S       W111_2
+W112_2          C
+W112_3          S       W112_2
+SW11_1          C
+SW11_2          S       SW11_1
+SW11_4          S       SW11_1
+SW12_1          S       SW11_1
+SW12_2          S       SW11_1
+SW12_4          S       SW11_1
+SW12_5          S       SW11_1
+SW19_1          S       RW8_1
+SW19_2          S       RW8_1
+SW19_3          S       RW8_1
+SW19_4          S       RW8_1
+SW17_4          S       SW11_1
+SW17_5          S       SW11_1
+SW17_6          S       SW11_1
+SW18_7          S       SW11_1
+SW18_7          S       SW11_1
+T14_5           S       WALL01_4
+AG128_1         S       RW8_1
+AG128_2         S       RW8_1
+AGB128_1        S       TTALL1_2
+WLA128_1        S       RW37_2
+SUPPORT2        C
+TOMW2_1         S       WALL62_1
+TOMW2_2         S       WALL62_1
+STEP03          C
+STEP04          S       STEP03
+STEP05          S       STEP03
+STEP06          S       STEP03
+STEP07          S       STEP03
+STEP08          S       STEP03
+STEP09          S       STEP03
+STEP10          S       STEP03
+EXIT1           C
+EXIT2           C
+PLAT2_1         C
+TTALL1_2        C
+TP2_1           S       WALL62_1
+TP2_2           S       WALL62_1
+COMP03_1        S       W28_8
+COMP03_4        C
+COMP03_5        S       W28_8
+COMP03_8        S       COMP03_4
+COMP04_1        S       W28_8
+COMP04_2        S       W28_8
+COMP04_5        S       W28_8
+COMP04_6        S       W28_8
+COMP04_7        S       W28_8
+COMP04_8        S       W28_8
+DOOR2_1         S       DOOR2_4
+DOOR2_4         C
+DOOR2_5         S       WALL02_2
+DOOR3_4         C
+DOOR3_5         S       DOOR3_4
+DOOR3_6         C
+DOORTRAK        S       TTALL1_2
+DOOR9_1         S       DOOR2_4
+WARNA0          C
+WARNB0          C
+BLITA0          C
+BLITB0          C
+BLITC0          C
+WLITA0          C
+WLITB0          C
+WLITC0          C
+NUKEDGE         C
+PS20A0          C
+SW1S0           C
+SW1S1           C
+SW2S0           S       SW1S0
+SW2S1           S       SW1S1
+SW3S0           S       SW1S0
+SW3S1           S       SW1S1
+SW4S0           C
+SW4S1           C
+RSKY1           C
+RSKY2           S       RSKY1
+RSKY3           S       RSKY1
+P1_END          C
+P2_START        C
+WALL22_1        S       MWALL1_1
+WALL23_1        S       MWALL1_1
+WALL23_2        S       MWALL1_1
+WALL25_1        S       MWALL1_1
+WALL30_2        S       WALL48_2
+WALL30_3        S       WALL48_2
+WALL30_4        S       WALL48_2
+WALL40_1        C
+WALL40_2        S       WALL40_1
+WALL42_1        C
+WALL42_3        C
+WALL42_5        S       WALL42_1
+WALL42_6        S       WALL42_1
+WALL47_1        C
+WALL47_2        C
+WALL47_3        S       WALL42_1
+WALL47_4        S       WALL42_1
+WALL47_5        S       WALL42_1
+WALL48_1        S       WALL48_2
+WALL48_2        C
+WALL48_3        S       WALL48_2
+WALL48_4        S       WALL48_2
+WALL49_1        S       WALL48_2
+WALL49_2        S       WALL48_2
+WALL49_3        S       WALL48_2
+WALL49_4        S       WALL48_2
+WALL50_1        S       MWALL1_1
+WALL50_2        S       MWALL1_1
+WALL51_2        S       WALL48_2
+WALL51_3        S       WALL48_2
+WALL52_1        S       WALL62_1
+WALL52_2        S       WALL62_1
+WALL53_1        S       WALL62_1
+WALL54_1        S       WALL62_1
+WALL54_2        S       WALL62_1
+WALL55_1        S       WALL62_1
+WALL58_1        S       WALL48_2
+WALL58_2        S       WALL48_2
+WALL58_3        S       WALL48_2
+WALL59_1        S       WALL48_2
+WALL59_2        S       WALL48_2
+WALL59_3        S       WALL48_2
+WALL59_4        S       WALL48_2
+WALL63_1        S       WALL62_1
+WALL64_2        S       WALL62_1
+W64B_1          S       WALL62_1
+W64B_2          S       WALL62_1
+W65B_1          S       WALL62_1
+W65B_2          S       WALL62_1
+W67_1           S       W31_1
+W67_2           S       COMP03_4
+WALL69_4        S       W31_1
+WALL69_9        S       COMP03_4        // ?
+WALL70_4        S       W31_1
+WALL70_9        S       COMP03_4        // ?
+WALL71_5        S       W31_1
+WALL72_3        S       W31_1
+WALL72_5        S       W31_1
+WALL72_7        S       W31_1
+W73A_1          S       WALL40_1
+W73A_2          S       WALL40_1
+W73B_1          S       WALL40_1
+W74A_1          S       WALL40_1
+W74A_2          S       WALL40_1
+W74B_1          S       WALL40_1
+WALL78_1        S       WALL40_1
+W92_1           C       WALL97_1
+W92_2           S       W92_1
+W96_1           S       WALL40_1
+W96_2           S       WALL40_1
+WALL97_1        C
+WALL97_2        S       WALL97_1
+WALL97_3        S       WALL97_1
+W98_1           S       WALL40_1
+W98_2           S       WALL40_1
+W99_1           S       WALL40_1
+W99_2           S       WALL40_1
+W101_1          S       WALL40_1
+W101_2          S       WALL40_1
+W102_1          S       WALL40_1
+W102_2          S       WALL40_1
+W103_1          S       WALL40_1
+W103_2          S       WALL40_1
+W105_1          S       DOOR2_4
+W106_1          S       W107_1
+W107_1          C
+W108_2          C
+W108_3          C
+W108_4          C
+M1_1            C
+WALL04_9        S       WALL01_4
+WALL04_A        S       WALL01_4
+WALL04_B        S       WALL01_4
+WALL04_C        S       WALL01_4
+RIPW15          C
+DOOR11_1        S       DOOR2_4
+DOOR12_1        C
+DOOR9_2         S       DOOR2_4
+SNAK7_1         S       WALL97_1
+SNAK8_1         S       WALL97_1
+HELL5_1         S       WALL40_1
+HELL5_2         S       WALL40_1
+HELL6_2         S       WALL97_1
+HELL6_3         S       RW8_1
+HELL8_1         S       WALL97_1
+HELL8_2         S       WALL97_1
+HELL8_4         S       WALL97_1
+SPINE3_1        S       WALL40_1
+SPINE3_2        S       WALL40_1
+SPINE4_1        S       WALL40_1
+SW15_1          S       SW11_1
+SW15_3          S       SW11_1
+SW15_4          S       SW11_1
+SW15_6          S       SW11_1
+SW16_1          S       SW11_1
+SW16_2          S       SW11_1
+SW16_4          S       SW11_1
+SW16_6          S       SW11_1
+SW17_1          S       SW11_1
+SW17_2          S       SW11_1
+SW17_3          S       SW11_1
+SW18_5          S       SW11_1
+MWALL1_1        C
+MWALL1_2        S       MWALL1_1
+MWALL2_1        S       MWALL1_1
+MWALL3_1        S       MWALL1_1
+MWALL4_1        S       MWALL1_1
+MWALL4_2        S       MWALL1_1
+MWALL5_1        S       MWALL1_1
+T14_3           S       WALL02_2
+BCRATEL1        S       COMP03_4
+BCRATEM1        C
+BCRATER1        S       COMP03_4
+GCRATEL1        S       COMP03_4
+GCRATEM1        S       BCRATEM1
+GCRATER1        S       COMP03_4
+VGCRATE1        C
+LADDER16        C
+SGCRATE2        S       COMP03_4
+CYL1_1          S       RW8_1
+TP3_1           S       WALL62_1
+TP3_2           S       WALL62_1
+TP7_1           S       WALL62_1
+TP7_2           S       WALL62_1
+COMP03_2        S       W28_8
+RP1_1           S       WALL62_1
+RP1_2           S       WALL62_1
+RP2_1           S       SW11_1
+RP2_2           S       SW11_1
+RP2_3           S       SW11_1
+RP2_4           S       SW11_1
+SW2_1           C
+SW2_2           C
+SW2_4           C
+SW2_5           C
+SW2_6           C
+SW2_7           C
+SW2_8           C
+DUCT1           C
+PS18A0          S       PS20A0
+P2_END          C
+P3_START        C
+RW1_1           S       RW5_4
+RW1_2           S       RW5_4
+RW1_3           S       RW5_4
+RW1_4           S       RW5_4
+RW5_1           S       RW5_4
+RW5_2           S       RW5_4
+RW5_3           S       RW5_4
+RW5_4           C
+RW6_1           S       RW5_4
+RW7_1           S       RW10_1
+RW7_2           S       WALL48_2
+RW7_3           S       WALL48_2
+RW8_1           C
+RW8_2           S       RW8_1
+RW8_3           S       RW8_1
+RW8_4           S       RW8_1
+RW9_1           S       WALL97_1
+RW9_2           S       WALL97_1
+RW9_3           S       WALL97_1
+RW9_4           S       WALL97_1
+RW10_1          C
+RW10_2          S       RW10_1
+RW10_3          S       RW10_1
+RW10_4          S       RW10_1
+RW11_2          S       RW8_1
+RW11_3          S       RW10_1
+RW12_1          S       RW8_1
+RW12_2          S       RW5_4
+RW12_3          S       RW5_4
+RW12_4          S       RW5_4
+RW13_1          S       MWALL1_1
+RW14_1          S       RW5_4
+RW15_1          S       RW15_2
+RW15_2          C
+RW15_3          S       RW15_2
+RW15_4          S       RW15_2
+RW16_1          S       RW15_2
+RW16_2          S       RW15_2
+RW16_3          S       RW15_2
+RW16_4          S       RW15_2
+RW18_1          S       RW5_4
+RW18_2          S       RW5_4
+RW18_3          S       RW5_4
+RW18_4          S       RW5_4
+RW19_1          S       RW15_2
+RW19_2          S       RW15_2
+RW19_3          S       RW15_2
+RW19_4          S       RW15_2
+RW20_1          S       RW10_1
+RW20_2          S       RW10_1
+RW20_3          S       RW10_1
+RW20_4          S       RW10_1
+RW21_1          S       SW11_1
+RW21_2          S       WALL00_7
+RW21_3          S       RW15_2
+RW21_4          S       RW15_2
+RW21_5          S       RW15_2
+RW22_1          S       RW23_4
+RW22_2          S       RW23_4
+RW22_3          S       RW23_4
+RW23_1          S       WALL97_1
+RW23_2          S       WALL97_1
+RW23_3          S       RW23_4
+RW23_4          C
+RW24_1          S       RW5_4
+RW24_2          S       RW5_4
+RW24_3          S       RW5_4
+RW24_4          S       RW5_4
+RW25_1          S       RW10_1
+RW25_2          S       RW10_1
+RW25_3          S       RW10_1
+RW25_4          S       RW10_1
+RW26_1          S       WALL97_1
+RW26_2          S       WALL97_1
+RW26_3          S       WALL97_1
+RW26_4          S       WALL97_1
+RW27_2          S       WALL47_2
+RW27_3          S       WALL47_2
+RW28_1          S       RW10_1
+RW28_2          S       RW10_1
+RW28_3          S       RW10_1
+RW28_4          C
+RW30_1          S       RW23_4
+RW30_2          S       RW23_4
+RW30_3          S       RW23_4
+RW31_1          S       RW31_3
+RW31_2          S       RW31_3
+RW31_3          C
+RW31_4          S       RW31_3
+RW32_1          S       RW8_1
+RW32_2          S       RW8_1
+RW32_3          S       RW8_1
+RW33_1          S       WALL47_1
+RW33_2          S       WALL47_1
+RW33_3          S       WALL47_1
+RW33_4          S       WALL47_1
+RW34_1          S       RW31_3
+RW34_2          S       RW31_3
+RW35_1          S       WALL62_1
+RW35_2          S       WALL62_1
+RW36_1          S       DOOR15_2
+RW36_2          S       RW10_1
+RW36_3          S       RW28_4
+RW37_1          S       RW37_2
+RW37_2          C
+RW37_3          S       RW37_2
+RW37_4          S       RW37_2
+RW38_1          S       WALL47_1
+RW38_2          S       WALL47_1
+RW38_3          S       RW10_1
+RW38_4          S       RW23_4
+RW39_1          S       RW37_2
+RW39_2          S       RW28_4
+WOLF1           S       WALL62_1
+WOLF2           S       WALL62_1
+WOLF3           S       WALL62_1
+WOLF4           S       WALL62_1
+WOLF5           S       WALL62_1
+WOLF6           S       WALL62_1
+WOLF7           S       WALL62_1
+WOLF9           S       WALL62_1
+WOLF10          S       DOOR2_4
+WOLF11          S       DOOR2_4
+WOLF12          S       WALL62_1
+WOLF13          S       WALL62_1
+WOLF14          S       WALL62_1
+WOLF17          S       WALL62_1
+WOLF18          S       DOOR2_4
+BODIES          S       RW8_1
+BODY_1          S       WALL62_1
+BODY_2          S       WALL62_1
+RW41_1          S       RW5_4
+RW41_2          S       RW5_4
+RW41_3          S       RW5_4
+RW41_4          S       RW5_4
+RW42_1          S       RW5_4
+RW42_3          S       RW5_4
+RW42_4          S       RW5_4
+RW43_1          C
+RW43_3          S       RW28_4
+RW43_4          S       RW28_4
+RW44_2          S       WALL47_2
+RW44_4          S       WALL47_2
+RW45_1          C
+RW46_2          S       RW28_4
+RW46_3          S       RW28_4
+RW46_4          S       RW28_4
+RW47_1          S       RW43_1
+RW47_3          S       RW8_1
+RW47_4          S       RW8_1
+RW48_1          S       RW8_1
+RW48_2          S       RW8_1
+RW48_3          S       RW8_1
+RW48_4          S       RW8_1
+BFALL1          C
+BFALL2          S       BFALL1
+BFALL3          S       BFALL1
+BFALL4          S       BFALL1
+SFALL1          S       BFALL1
+SFALL2          S       BFALL1
+SFALL3          S       BFALL1
+SFALL4          S       BFALL1
+RWDMON1         S       W107_1
+RWDMON2         S       W107_1
+RWDMON3         S       W107_1
+RWDMON4         S       W107_1
+RWDMON5         S       W107_1
+RWDMON7         S       W107_1
+RWDMON8         S       W107_1
+RWDMON9         S       W107_1
+RWDMON10        S       W107_1
+RWDM11A         C
+RWDM11B         S       RWDM11A
+RWDM11C         S       RWDM11A
+RWDM11D         S       RWDM11A
+DOOR15_1        S       DOOR15_2
+DOOR15_2        C
+DOOR15_3        S       DOOR15_2
+DOOR15_4        S       DOOR15_2
+P3_END          C
+P_END           C
+F_START         C
+F1_START        C
+FLOOR0_1        S       FLOOR0_7
+FLOOR0_3        S       FLOOR0_7
+FLOOR0_6        S       FLOOR0_7
+FLOOR1_1        S       FLOOR0_7
+FLOOR1_7        S       GATE3
+FLOOR3_3        S       FLOOR0_7
+FLOOR4_1        S       FLOOR0_7
+FLOOR4_5        S       FLOOR0_7
+FLOOR4_6        S       FLOOR0_7
+FLOOR4_8        C
+FLOOR5_1        S       FLOOR4_8
+FLOOR5_2        S       FLOOR4_8
+FLOOR5_3        S       FLOOR4_8
+FLOOR5_4        S       RROCK11
+STEP1           S       SLIME15
+STEP2           S       SLIME15
+FLOOR6_1        S       GATE3
+FLOOR6_2        S       FLOOR4_8
+TLITE6_1        S       TLITE6_4
+TLITE6_4        C
+TLITE6_5        S       TLITE6_4
+TLITE6_6        S       TLITE6_4
+FLOOR7_1        S       RROCK11
+FLOOR7_2        C
+MFLR8_1         S       FLOOR0_7
+DEM1_1          S       FLOOR7_2
+DEM1_2          S       FLOOR7_2
+DEM1_3          S       FLOOR7_2
+DEM1_4          S       FLOOR7_2
+CEIL3_1         S       FLOOR0_7
+CEIL3_2         S       FLOOR0_7
+CEIL3_5         S       FLOOR0_7
+CEIL4_2         S       FLOOR7_2
+CEIL4_3         S       FLOOR7_2
+CEIL5_1         S       FLOOR4_8
+CEIL5_2         S       FLOOR0_7
+FLAT1           S       FLOOR0_7
+FLAT2           S       FLOOR0_7
+FLAT5           S       FLOOR4_8
+FLAT10          S       FLOOR4_8
+FLAT14          S       FLOOR7_2
+FLAT18          S       FLOOR0_7
+FLAT20          S       FLOOR0_7
+FLAT22          S       GATE3
+FLAT23          S       FLOOR0_7
+FLAT5_4         S       FLOOR0_7
+FLAT5_5         S       FLOOR0_7
+CONS1_1         S       FLOOR0_7
+CONS1_5         S       FLOOR0_7
+CONS1_7         S       FLOOR0_7
+NUKAGE1         S       SLIME01
+NUKAGE2         S       SLIME02
+NUKAGE3         S       SLIME03
+F_SKY1          S       FLOOR0_7         // :)
+F1_END          C
+F2_START        C
+SFLR6_1         S       FLAT5_1
+SFLR6_4         S       FLAT5_1
+SFLR7_1         S       FLAT5_1
+SFLR7_4         S       FLAT5_1
+FLOOR0_2        S       FLAT5_1
+FLOOR0_5        S       FLOOR0_7
+FLOOR0_7        C
+FLOOR1_6        S       GATE3
+GATE1           S       GATE3
+GATE2           S       GATE3
+GATE3           C
+GATE4           S       GATE3
+FWATER1         S       SLIME01
+FWATER2         S       SLIME02
+FWATER3         S       SLIME03
+FWATER4         S       SLIME04
+LAVA1           S       SLIME01
+LAVA2           S       SLIME02
+LAVA3           S       SLIME03
+LAVA4           S       SLIME04
+DEM1_5          S       FLOOR7_2
+DEM1_6          S       FLOOR7_2
+MFLR8_2         S       FLOOR4_8
+MFLR8_3         S       RROCK11
+MFLR8_4         S       FLOOR4_8
+CEIL1_1         S       FLAT5_1
+CEIL1_2         S       FLAT5_1
+CEIL1_3         S       FLAT5_1
+CEIL3_3         S       FLAT5_1
+CEIL3_4         S       FLAT5_1
+CEIL3_6         S       FLOOR0_7
+CEIL4_1         S       FLOOR7_2
+BLOOD1          S       SLIME01
+BLOOD2          S       SLIME02
+BLOOD3          S       SLIME03
+FLAT1_1         S       RROCK11
+FLAT1_2         S       RROCK11
+FLAT1_3         S       RROCK11
+FLAT5_1         C
+FLAT5_2         S       RROCK11
+FLAT5_3         S       RROCK11
+FLAT5_6         S       RROCK11
+FLAT5_7         S       FLAT5_1
+FLAT5_8         S       FLAT5_1
+CRATOP1         S       FLOOR0_7
+CRATOP2         S       FLOOR0_7
+FLAT3           S       FLOOR0_7
+FLAT4           S       FLOOR0_7
+FLAT8           S       FLOOR0_7
+FLAT9           S       FLOOR0_7
+FLAT17          S       FLOOR0_7
+FLAT19          S       FLOOR0_7
+COMP01          S       FLOOR0_7
+F2_END          C
+F3_START        C
+GRASS1          S       FLOOR7_2
+GRASS2          S       FLOOR7_2
+GRNLITE1        S       TLITE6_4
+GRNROCK         S       RROCK11
+RROCK01         S       RROCK11
+RROCK02         S       RROCK11
+RROCK03         S       RROCK11
+RROCK04         S       RROCK11
+RROCK05         S       RROCK11
+RROCK06         S       RROCK11
+RROCK07         S       RROCK11
+RROCK08         S       RROCK11
+RROCK09         S       RROCK11
+RROCK10         S       RROCK11
+RROCK11         C
+RROCK12         S       RROCK11
+RROCK13         S       RROCK11
+RROCK14         S       RROCK11
+RROCK15         S       RROCK11
+RROCK16         S       RROCK11
+RROCK17         S       RROCK11
+RROCK18         S       RROCK11
+RROCK19         S       FLOOR7_2
+RROCK20         S       FLOOR7_2
+SLIME01         C
+SLIME02         C
+SLIME03         C
+SLIME04         C
+SLIME05         S       SLIME01
+SLIME06         S       SLIME02
+SLIME07         S       SLIME03
+SLIME08         S       SLIME04
+SLIME09         S       RROCK11
+SLIME10         S       RROCK11
+SLIME11         S       RROCK11
+SLIME12         S       RROCK11
+SLIME13         S       FLOOR7_2
+SLIME14         S       SLIME15
+SLIME15         C
+SLIME16         S       SLIME15
+F3_END          C
+F_END           C
