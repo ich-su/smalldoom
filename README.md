@@ -1,4 +1,4 @@
-## Small DeathMatch DOOM 
+# Small DeathMatch DOOM 
 
 * **Год:** 1997
 * **Среда разработки:** Turbo Pascal 7
